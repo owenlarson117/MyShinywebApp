@@ -9,7 +9,7 @@
 
 library(shiny)
 shinyUI(fluidPage(
-  titlePanel("Tree Slope intercept"),
+  titlePanel("Car speed Slope intercept"),
   sidebarLayout(
     sidebarPanel(
       p("Click and drag a box around data points to find the slope and intercept"),
